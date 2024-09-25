@@ -1,0 +1,17 @@
+D:\VTC\dir\test\cocos2d\external\recast\DebugUtils\DebugDraw.cpp;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\DebugDraw.obj
+D:\VTC\dir\test\cocos2d\external\recast\DebugUtils\DetourDebugDraw.cpp;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\DetourDebugDraw.obj
+D:\VTC\dir\test\cocos2d\external\recast\Detour\DetourAlloc.cpp;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\DetourAlloc.obj
+D:\VTC\dir\test\cocos2d\external\recast\Detour\DetourCommon.cpp;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\DetourCommon.obj
+D:\VTC\dir\test\cocos2d\external\recast\Detour\DetourNavMesh.cpp;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\DetourNavMesh.obj
+D:\VTC\dir\test\cocos2d\external\recast\Detour\DetourNavMeshBuilder.cpp;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\DetourNavMeshBuilder.obj
+D:\VTC\dir\test\cocos2d\external\recast\Detour\DetourNavMeshQuery.cpp;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\DetourNavMeshQuery.obj
+D:\VTC\dir\test\cocos2d\external\recast\Detour\DetourNode.cpp;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\DetourNode.obj
+D:\VTC\dir\test\cocos2d\external\recast\DetourCrowd\DetourCrowd.cpp;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\DetourCrowd.obj
+D:\VTC\dir\test\cocos2d\external\recast\DetourCrowd\DetourLocalBoundary.cpp;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\DetourLocalBoundary.obj
+D:\VTC\dir\test\cocos2d\external\recast\DetourCrowd\DetourObstacleAvoidance.cpp;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\DetourObstacleAvoidance.obj
+D:\VTC\dir\test\cocos2d\external\recast\DetourCrowd\DetourPathCorridor.cpp;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\DetourPathCorridor.obj
+D:\VTC\dir\test\cocos2d\external\recast\DetourCrowd\DetourPathQueue.cpp;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\DetourPathQueue.obj
+D:\VTC\dir\test\cocos2d\external\recast\DetourCrowd\DetourProximityGrid.cpp;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\DetourProximityGrid.obj
+D:\VTC\dir\test\cocos2d\external\recast\DetourTileCache\DetourTileCache.cpp;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\DetourTileCache.obj
+D:\VTC\dir\test\cocos2d\external\recast\DetourTileCache\DetourTileCacheBuilder.cpp;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\DetourTileCacheBuilder.obj
+D:\VTC\dir\test\cocos2d\external\recast\fastlz\fastlz.c;D:\VTC\dir\test\proj.win32\engine\external\recast\ext_recast.dir\Debug\fastlz.obj

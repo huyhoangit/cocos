@@ -1,0 +1,21 @@
+﻿  Building Custom Rule D:/VTC/dir/test/cocos2d/external/recast/CMakeLists.txt
+  DebugDraw.cpp
+  DetourDebugDraw.cpp
+  DetourAlloc.cpp
+  DetourCommon.cpp
+  DetourNavMesh.cpp
+  DetourNavMeshBuilder.cpp
+  DetourNavMeshQuery.cpp
+  DetourNode.cpp
+  DetourCrowd.cpp
+  DetourLocalBoundary.cpp
+  DetourObstacleAvoidance.cpp
+  DetourPathCorridor.cpp
+D:\VTC\dir\test\cocos2d\external\recast\DetourCrowd\DetourObstacleAvoidance.cpp(334,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  DetourPathQueue.cpp
+  DetourProximityGrid.cpp
+  DetourTileCache.cpp
+  DetourTileCacheBuilder.cpp
+  Generating Code...
+  fastlz.c
+  ext_recast.vcxproj -> D:\VTC\dir\test\proj.win32\lib\Debug\ext_recast.lib

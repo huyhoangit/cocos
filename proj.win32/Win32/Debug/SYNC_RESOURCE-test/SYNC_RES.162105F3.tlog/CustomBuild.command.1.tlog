@@ -1,0 +1,20 @@
+^D:\VTC\DIR\TEST\PROJ.WIN32\CMAKEFILES\0453C658617793F959799A6DDE412117\SYNC_RESOURCE-TEST.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E echo "Copying resources for test ..."
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\VTC\DIR\TEST\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/VTC/dir/test -BD:/VTC/dir/test/proj.win32 --check-stamp-file D:/VTC/dir/test/proj.win32/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
